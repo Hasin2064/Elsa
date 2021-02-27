@@ -1,0 +1,10 @@
+a{font-size: 17px;color: brown;text-decoration: none;}
+a:visited{color:blue;}
+a:hover{color:deeppink;}
+body{background-color: azure;}
+
+h1{font-family:'Times New Roman', Times, serif;color:rgb(207, 24, 207);}
+h2{color:rgb(207, 24, 207);font-size: 20px;}
+li{font-size: 20px;}
+ul{color: darkblue;}
+
